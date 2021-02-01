@@ -12,4 +12,4 @@
 /dev/stml0xx_ms                                          u:object_r:sensors_device:s0
 
 # Touch
-/(vendor|system/vendor)/bin/hw/vendor\.lineage\.touch@1\.0-service\.cedric u:object_r:hal_lineage_touch_default_exec:s0
+/(vendor|system/vendor)/bin/hw/vendor\.mokee\.touch@1\.0-service\.cedric u:object_r:hal_mokee_touch_default_exec:s0
